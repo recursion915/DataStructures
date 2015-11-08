@@ -1,0 +1,15 @@
+vpn13-223:desktop Titan$ ./a.out Chen Ryan Coke
+./a.out
+Hello, Chen
+Ryan
+Coke
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81

@@ -1,0 +1,35 @@
+//Chen Zhang
+//HW: CSC172 Lab01
+//Lab Session: T/Th 12:30-1:45p.m
+
+
+Last login: Thu Sep 10 12:50:21 on ttys000
+dhcp-10-5-19-20:~ Titan$ cd desktop
+dhcp-10-5-19-20:desktop Titan$ javac Lab01.java
+dhcp-10-5-19-20:desktop Titan$ javac Lab01Session06.java 
+dhcp-10-5-19-20:desktop Titan$ java Lab01
+1
+2
+3
+4
+5
+1.1
+2.2
+3.3
+4.4
+H
+E
+L
+L
+O
+once
+upon
+a
+time
+max Integer is: 5
+max Double is: 4.4
+max Character is: O
+max String is: upon
+dhcp-10-5-19-20:desktop Titan$ java Lab01Session06
+S
+dhcp-10-5-19-20:desktop Titan$ 

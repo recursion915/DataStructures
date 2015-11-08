@@ -1,0 +1,40 @@
+Welcome to DrRacket, version 6.2.1 [3m].
+Language: Pretty Big; memory limit: 128 MB.
+3
+5
+8
+(#<procedure:+> 3 5)
+(#<procedure:+> x y)
+8
+8
+8
+579
+"part1 ends"
+6
+55
+55
+225
+"part2 ends"
+55
+225
+15
+"part3 ends"
+12
+17
+#<procedure>
+26
+91
+15
+55
+225
+"Hi, Ben! test for geo-sum begins"
+1 1/2
+2 17/60
+3 42503239/77597520
+"part4 ends"
+4
+25608
+"part5 ends"
+4
+25608
+> 

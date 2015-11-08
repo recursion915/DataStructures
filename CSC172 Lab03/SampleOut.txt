@@ -1,0 +1,27 @@
+Last login: Thu Sep 17 12:48:40 on ttys000
+dhcp-10-5-9-142:~ Titan$ cd desktop
+dhcp-10-5-9-142:desktop Titan$ javac Lab03test.java
+Note: Lab03test.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+dhcp-10-5-9-142:desktop Titan$ java Lab03test
+print in order: 
+kakashi
+B
+A
+23.5
+
+print in reverse: 
+23.5
+A
+B
+kakashi
+there is 23.5 in the list: true
+there is C in the list: false
+print after deleting first item: 
+B
+A
+23.5
+print after deleting first item and A: 
+B
+23.5
+dhcp-10-5-9-142:desktop Titan$ 

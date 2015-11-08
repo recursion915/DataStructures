@@ -1,0 +1,21 @@
+dhcp-10-5-12-220:Zhang Lab11 Titan$ javac BinarySearchTree.java 
+dhcp-10-5-12-220:Zhang Lab11 Titan$ java B
+Error: Could not find or load main class B
+dhcp-10-5-12-220:Zhang Lab11 Titan$ java BinarySearchTree
+Sry, you cannot insert 17 twice!
+there is 10 in the tree true
+there is 15 in the tree false
+there is 17 in the tree true
+there is 16 in the tree true
+Preorder is: 
+10 9 7 8 13 11 17 16 
+Postorder is: 
+8 7 9 11 16 17 13 10 
+Inorder is: 
+7 8 9 10 11 13 16 17 
+after deleting the two children item(13): 
+7 8 9 10 11 16 17 
+after deleting the leaf item(8): 
+7 9 10 11 16 17 
+after deleting the leaf item(7): 
+9 10 11 16 17 

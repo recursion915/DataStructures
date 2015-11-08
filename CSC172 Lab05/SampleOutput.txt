@@ -1,0 +1,9 @@
+error has 20 Ways
+street has 180 Ways
+allele has 60 Ways
+Mississippi has 34650 Ways
+6 apples to 4 kids: 84 Ways
+4 apples to 6 kids: 84 Ways
+6 apples/3pears to 5 kids: 60060 Ways
+2 apples/5pears/6bananas to 3 kids: 3783780 Ways
+dhcp-10-5-0-236:desktop Titan$ 

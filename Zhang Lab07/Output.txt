@@ -1,0 +1,15 @@
+Lab07test.class		MyDoubleNode.java	Output.txt
+Lab07test.java		MyQueue.class		Queue.class
+MyDoubleNode.class	MyQueue.java		Queue.java
+Chens-MacBook-Pro:Zhang Lab07 Titan$ javac Lab07test.java
+Note: Lab07test.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Chens-MacBook-Pro:Zhang Lab07 Titan$ java Lab07test
+Is queue empty? false
+let's peek one: Look
+Remove first one: Look
+Remove again: I'm coding
+Remove again: 3.1415926
+Empty queue
+Remove again: null
+Chens-MacBook-Pro:Zhang Lab07 Titan$ 

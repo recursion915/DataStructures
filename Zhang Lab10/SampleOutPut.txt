@@ -1,0 +1,34 @@
+Chens-MacBook-Pro:Zhang Lab10 Titan$ gcc Lab10.c 
+Chens-MacBook-Pro:Zhang Lab10 Titan$ ./a.out
+-28224
+28214
+-21522
+8870
+16887
+2234
+20162
+-5175
+20255
+30710
+after sorting in ascending:
+-28224
+-21522
+-5175
+2234
+8870
+16887
+20162
+20255
+28214
+30710
+after sorting in descending:
+30710
+28214
+20255
+20162
+16887
+8870
+2234
+-5175
+-21522
+-28224

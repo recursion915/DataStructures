@@ -1,0 +1,59 @@
+Last login: Sun Oct  4 19:54:06 on ttys000
+Chens-MacBook-Pro:~ Titan$ cd desktop
+Chens-MacBook-Pro:desktop Titan$ javac project1test.java 
+Chens-MacBook-Pro:desktop Titan$ java project1test
+Welcome to a boring game: Mastermind
+Please enter your the number of postions you want to play: integer only
+4
+Enter your color selection, to save time, please enter firstLetter only:("RGB" for RED,GREEN,BLUE)
+12345678
+my guess is 
+1111
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+0
+my guess is 
+1112
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+1
+my guess is 
+1114
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+1
+my guess is 
+1118
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+0
+my guess is 
+1128
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+1
+my guess is 
+1148
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+1
+my guess is 
+1188
+please enter how many colored pegs I got
+1
+please enter how many white pegs I got
+0
+my guess is 
+1234
+please enter how many colored pegs I got
+4
+please enter how many white pegs I got
+0
+I got the answer after 7 times in total possible arragments of 4096
+Chens-MacBook-Pro:desktop Titan$ 

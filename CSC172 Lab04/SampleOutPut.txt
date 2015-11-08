@@ -1,0 +1,17 @@
+Last login: Wed Sep 23 14:17:33 on ttys000
+dhcp-10-5-0-236:~ Titan$ cd desktop
+dhcp-10-5-0-236:desktop Titan$ javac Lab04.java
+dhcp-10-5-0-236:desktop Titan$ java Lab04
+How many ways can we paint three houses in any of four colors?
+the answer is 64
+Suppose a computer password consists of eight to ten letters and/or digits. How many different passwords are there? Remember that an upper-case letter is different from a lowercase one.
+the answer is 21834010558489613537086546263552839299365868340224
+If we have 9 players for a baseball team, how many possible batting orders are there? 
+the answer is 362880
+In a class of 200 students, we wish to elect a President, Vice President, Secretary and Treasurer. In haw many ways can these four officers be selected?
+the answer is 1552438800
+How many ways are there to form a sequence of m letters out of the 26 letters, if no letter isallowed to appera more than once for (a) m=3, (b) m=5
+the answer for m=3 is 15600 the answer for m=4 is 358800
+In poker, each player is dealt five cards from a 52 card deck. How many different possiblitisare there? 
+the answer is 2598960
+dhcp-10-5-0-236:desktop Titan$ 

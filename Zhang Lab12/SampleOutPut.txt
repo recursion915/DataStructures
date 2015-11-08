@@ -1,0 +1,9 @@
+Chens-MacBook-Pro:Zhang Lab12 Titan$ javac MyHeap.java 
+Note: MyHeap.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Chens-MacBook-Pro:Zhang Lab12 Titan$ java MyHeap
+5 10 21 20 13 200 
+remove the min, which is 5, the heap order now is: 
+10 13 21 20 200 7
+after heapifying the random array is:
+5 9 21 139 77 121 32 Chens-MacBook-Pro:Zhang Lab12 Titan$ 

@@ -1,0 +1,9 @@
+Chens-MacBook-Pro:desktop Titan$ javac Lab06Test.java 
+Note: Lab06Test.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Chens-MacBook-Pro:desktop Titan$ java Lab06Test
+Is stack empty? false
+let's peek a one 3.1415926
+Remove first one: 3.1415926
+Remove again: I'm coding
+Chens-MacBook-Pro:desktop Titan$ 
